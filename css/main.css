@@ -4,8 +4,13 @@
    Author's custom styles
    ========================================================================== */
 
+.forestbg  {
+	background-image: url('../img/forest.gif');
+}
 
-
+.container {
+	opacity: 1;
+}
 
 
 

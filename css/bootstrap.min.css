@@ -3116,6 +3116,9 @@ a.list-group-item.active>.badge, .nav-pills>.active>a>.badge {
 .nav-pills>li>a>.badge {
     margin-left: 3px;
 }
+.img {
+	background-size: 500px x 500px;
+}
 .jumbotron {
     padding: 30px;
     margin-bottom: 30px;
@@ -3124,6 +3127,7 @@ a.list-group-item.active>.badge, .nav-pills>.active>a>.badge {
     line-height: 2.1428571435;
     color: inherit;
     background-color: #eee;
+    background-image:url('img/images.jpg');
 }
 .jumbotron h1 {
     line-height: 1;
